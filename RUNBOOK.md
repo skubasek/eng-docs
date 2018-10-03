@@ -8,7 +8,7 @@ This document contains information regarding operating and maintenance of [syst
 
 ## Application Dependency
 
-<small>Instructions: Provide any dependencies of the application/system and the impact.</small>
+<small>Instructions: List all external dependencies the application/system and the impact.</small>
 
 | Dependent Application/System | Function | Impact (if Application is Down) |
 --- | --- | --- 
