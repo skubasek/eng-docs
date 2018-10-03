@@ -30,10 +30,6 @@ Run options:
 ## Validation / Debugging
  * Provide ways to validate app is working once it's started on local machine. This could be JMX, dashboard url, etc.
 
-# Operations & Support
-## Runbooks 
- * List Confluence runbooks that are related to this project and that are actively maintained. All runbooks that are related to this project should be listed here.
-
 ## Resources
 - [JIRA link](http://jira.amp)
 - [Other links](...)
