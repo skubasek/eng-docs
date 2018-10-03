@@ -8,7 +8,7 @@ This document contains information regarding operating and maintenance of [syst
 
 ## Application Dependency
 
-<small>Instructions: List all external dependencies the application/system and the impact.</small>
+<small>Instructions: List all external dependencies of the application/system and the impact.</small>
 
 | Dependent Application/System | Function | Impact (if Application is Down) |
 --- | --- | --- 
@@ -16,29 +16,32 @@ This document contains information regarding operating and maintenance of [syst
 
 ## Architecture Overview
 
-<small>Instructions: Provide a brief description of the system architecture and the major system components essential to the operation of the system in the production environment.  Provide any charts, diagrams, and/or graphics as necessary to depict system organization.</small>
+<small>Instructions: Provide a brief description of the system architecture and the major system components essential 
+to the operation of the system in prod.  Provide any charts, diagrams, and/or graphics as 
+necessary to depict system organization.</small>
 
 ## Inputs / Outputs
 
-<small>Instructions: Itemize system inputs (APIs) and outputs. Include a data flow diagram, if applicable.</small>
+<small>Instructions: List system inputs & outputs and provide description of each.
+Include a data flow diagram, if applicable.</small>
 
-## Operation Procedures
+# Operation Procedures
 
-### Verification of Normal Operation
+## Verification of Normal Operation
 
 <small>Instructions: Provide instructions on how to verify system is functioning properly.</small>
 
-### Restart/Recovery Procedures
+## Restart/Recovery Procedures
 
 <small>Instructions: Provide procedures for restart/recovery in the event of a system failure. </small>
 
-#### Failover Procedures
+### Failover Procedures
 
 <small>Instructions: discuss Disaster Recovery/Failover procedures, if applicable.</small>
 
-## Monitoring & Error Handling
+# Monitoring & Error Handling
 
-### Critical Errors
+## Critical Errors
 
 <small>Instructions: Itemize errors in logs that need to be addressed</small>
 
@@ -48,7 +51,7 @@ This document contains information regarding operating and maintenance of [syst
 | &lt;log text&gt; | &lt;describe potential reasons/impact of this&gt; | &lt;what should this issue be addressed&gt; | 
 
 
-### Alerts
+## Alerts
 
  Monitoring System | Purpose | Details | Action Required | Verification |
 --- | --- | --- | --- | ---
