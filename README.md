@@ -3,26 +3,28 @@
 ## Owners
 * **Name** - *Primary/Lead*
 * **Name** - *Secondary*
+* **Name** - *Business Owner*
 
 # Overview
 
-* What is it, what does it do / Abstract
+<small>Instruction: Provide an overview of what this system/library is and why it's needed.</small>
 
 # Getting Started
 
-* Provide instructions how to build and run the project locally
+<small>Instruction: Provide instructions how to build and run the project locally
 
 ## Build [optional; include only if non-standard]
-
+```
     mvn clean install
-
+```
 Build options:
 - ...
 
 ## Run Locally
-* There should be an easy way (ideally, a single command) to start the project
-
+<small>There should be an easy way (ideally, a single command) to start the project</small>
+```
     docker ...
+```
 
 Run options:
 - ...

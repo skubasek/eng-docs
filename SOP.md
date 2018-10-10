@@ -1,4 +1,9 @@
-This document contains information regarding operating and maintenance of [system title].
+This document contains information regarding operating procedures (SOPs) of [system title] - [job id] in production 
+environment. 
+
+The main <strong>objective</strong> of the document is to help a developer/support with a routine production processing (ie, release),
+ongoing maintenance, and identified problems and issues.
+
 
 # Business Description
 
@@ -30,6 +35,11 @@ Include a data flow diagram, if applicable.</small>
 ## Verification of Normal Operation
 
 <small>Instructions: Provide instructions on how to verify system is functioning properly.</small>
+
+## Release Procedures
+
+<small>Instructions: Provide instructions on which steps to follow to properly release a new version of the
+system, and how to properly validate it.
 
 ## Restart/Recovery Procedures
 
