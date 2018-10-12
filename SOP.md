@@ -1,5 +1,5 @@
-This document contains information regarding operating procedures (SOPs) of [system title] - [job id] in production 
-environment. 
+This document contains information regarding operating procedures (SOPs) of 
+[system title] - id:[replace with id, no brackets] in production environment. 
 
 <small>The main <strong>objective</strong> of the document is to help a developer/support with a routine production processing (ie, release),
 ongoing maintenance, and identified problems and issues.</small>
