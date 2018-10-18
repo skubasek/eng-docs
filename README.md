@@ -29,8 +29,14 @@ Build options:
 Run options:
 - ...
 
+Configuration
+* If there are config settings required, list them here.
+
 ## Validation / Debugging
  * Provide ways to validate app is working once it's started on local machine. This could be JMX, dashboard url, etc.
+
+### Logging
+ * List log file(s) and their purpose
 
 ## Resources
 - [JIRA link](http://jira.amp)
