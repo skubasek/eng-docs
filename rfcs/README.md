@@ -4,7 +4,7 @@ Most changes, including bug fixes and documentation improvements can be implemen
 via the normal pull request workflow.
 
 Some changes though are "substantial", and these should be put through a bit of a design process 
-and produce a consensus among the developer and the core (primary/secondary ) team.
+and produce a consensus among the developer and the core (primary/secondary) team.
 
 ## When you need to follow this process
 You need to follow this process if you intend to make "substantial" changes 
@@ -24,6 +24,7 @@ markdown file. At that point the RFC is 'active' and may be implemented.
 amended. Once approved, author(s) may implement it.
 
 
-# Too formal?
-The process is intended to be as lightweight as possible, with the intention of maintaining
- good project cohesion, while providing good documentation of the big features. 
+## Too formal?
+The process is intended to be as lightweight as possible, with the intention of helping to maintain
+good project design/architecture cohesion, and at the same time, providing reasoning for the bigger
+changes. 
